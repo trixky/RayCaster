@@ -13,6 +13,14 @@ make
 ./ray_caster maps/map
 ```
 
+### Options
+
+- --save : save a screenshoot of the first rendering of the game at the root of the program
+
+```bash
+./ray_caster maps/map --save
+```
+
 ## Map Configuration
 
 ![Image description](https://i.ibb.co/HBm9nGM/map.png)
@@ -27,15 +35,7 @@ make
 - R : Screen resolution.
 - Map
 
-### Options
-
-- --save : save a screenshoot of the first rendering of the game at the root of the program
-
-```bash
-./ray_caster maps/map --save
-```
-
-### Ray Casting
+## Ray Casting
 
 ![Recordit GIF](https://upload.wikimedia.org/wikipedia/commons/e/e7/Simple_raycasting_with_fisheye_correction.gif)
 

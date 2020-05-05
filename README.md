@@ -4,6 +4,15 @@ A 3D first-person labyrinth game using [ray-casting](https://en.wikipedia.org/wi
 
 ![Image description](https://i.ibb.co/s674nbx/screen.png)
 
+## Usage
+
+```bash
+make
+
+# choose a map as argument
+./ray_caster maps/map
+```
+
 ## Map Configuration
 
 ![Image description](https://i.ibb.co/HBm9nGM/map.png)
@@ -18,15 +27,6 @@ A 3D first-person labyrinth game using [ray-casting](https://en.wikipedia.org/wi
 - R : Screen resolution.
 - Map
 
-## Usage
-
-```bash
-make
-
-# choose a map as argument
-./ray_caster maps/map
-```
-
 ### Options
 
 - --save : save a screenshoot of the first rendering of the game at the root of the program
@@ -37,6 +37,6 @@ make
 
 ### Ray Casting
 
-![Recordit GIF](https://en.wikipedia.org/wiki/Ray_casting#/media/File:Simple_raycasting_with_fisheye_correction.gif)
+![Recordit GIF](https://upload.wikimedia.org/wikipedia/commons/e/e7/Simple_raycasting_with_fisheye_correction.gif)
 
 Ray casting is a rendering technique used in computer graphics and computational geometry. It is capable of creating a three-dimensional perspective in a two-dimensional map. Developed by scientists at the Mathematical Applications Group in the 1960s, it is considered one of the most basic graphics-rendering algorithms.

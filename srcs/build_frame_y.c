@@ -1,3 +1,5 @@
+#include "ray_caster.h"
+
 int	ft_rad_90_y(t_all *all)
 {
 	int c;

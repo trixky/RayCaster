@@ -1,4 +1,4 @@
-#include "cub3d.h"
+#include "ray_caster.h"
 
 int		ft_str_is_save(char *str)
 {
@@ -52,7 +52,7 @@ int		main(int argc, char **argv)
 {
 	t_all all;
 
-	if ((argc != 2 || ft_cub_ext(argv[1]) == FALSE) &&
+	if ((argc != 2) &&
 			!(argc == 3 && ft_str_is_save(argv[2]) == TRUE))
 		ft_close(&all, 8);
 	all.start_clock = clock();

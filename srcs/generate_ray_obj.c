@@ -1,4 +1,4 @@
-#include "cub3d.h"
+#include "ray_caster.h"
 
 void	ft_init_length_object(t_all *all, t_obj *x_temp, t_obj *y_temp)
 {

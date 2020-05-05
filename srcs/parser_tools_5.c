@@ -1,4 +1,4 @@
-#include "cub3d.h"
+#include "ray_caster.h"
 
 int		ft_check_border(t_all *all)
 {

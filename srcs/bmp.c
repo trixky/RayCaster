@@ -1,4 +1,4 @@
-#include "cub3d.h"
+#include "ray_caster.h"
 
 int				create_bmp(t_all *all)
 {

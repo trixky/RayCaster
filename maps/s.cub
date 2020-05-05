@@ -1,12 +1,16 @@
-SO                     ./textures/grass.xpm
-F 125,0,0
 
+SO           ./textures/grass.xpm
+EA           ./textures/metal.xpm
 NO           ./textures/stone.xpm
-WE                    ./textures/wood.xpm
-EA               ./textures/metal.xpm
-S                           ./textures/knife.xpm
-C  20,20,20
-R 800 500
+WE           ./textures/wood.xpm
+
+S            ./textures/knife.xpm
+
+F    125,0,0
+C    20,20,20
+
+R    800 500
+
 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 5 5 0 0 4 0 0 3 1
 1 0 1 1 0 0 0 0 0 1 1 1 0 3 0 0 0 0 2 0 0 0 0 0 3 0 0 5 1

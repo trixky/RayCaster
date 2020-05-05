@@ -1,4 +1,4 @@
-#include "cub3d.h"
+#include "ray_caster.h"
 
 void	ft_shot_faisceau_90(t_all *all)
 {

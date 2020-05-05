@@ -1,4 +1,4 @@
-#include "cub3d.h"
+#include "ray_caster.h"
 
 void	ft_x_object_1_dir(t_all *all, t_obj *x_temp)
 {

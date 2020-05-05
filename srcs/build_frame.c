@@ -1,3 +1,5 @@
+#include "ray_caster.h"
+
 void	ft_frame(t_all *all)
 {
 	float	end_field;

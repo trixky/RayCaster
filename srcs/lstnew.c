@@ -1,4 +1,4 @@
-#include "cub3d.h"
+#include "ray_caster.h"
 
 t_obj	*ft_lstnew(t_all *all, float x, float y, char c)
 {

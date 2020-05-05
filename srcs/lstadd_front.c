@@ -1,4 +1,4 @@
-#include "cub3d.h"
+#include "ray_caster.h"
 
 void	ft_lstadd_front(t_obj **alst, t_obj *new)
 {

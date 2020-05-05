@@ -1,4 +1,4 @@
-#include "cub3d.h"
+#include "ray_caster.h"
 
 int		ft_parse_no(char *line, t_all *all)
 {

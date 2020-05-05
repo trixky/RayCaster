@@ -1,4 +1,4 @@
-NAME = cub3D
+NAME = ray_caster
 
 MK = make
 

@@ -1,4 +1,4 @@
-#include "cub3d.h"
+#include "ray_caster.h"
 
 int		get_next_line(int fd, char **line)
 {

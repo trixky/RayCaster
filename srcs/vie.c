@@ -1,4 +1,4 @@
-#include "cub3d.h"
+#include "ray_caster.h"
 
 void	ft_init_vie(t_all *all, t_vie *vie)
 {

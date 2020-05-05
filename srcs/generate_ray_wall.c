@@ -1,4 +1,4 @@
-#include "cub3d.h"
+#include "ray_caster.h"
 
 void	ft_generate_ray_wall_x_cut(t_all *all, int y_start,
 		int y_index, int y_end)

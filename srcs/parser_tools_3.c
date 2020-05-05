@@ -1,4 +1,4 @@
-#include "cub3d.h"
+#include "ray_caster.h"
 
 int		ft_parse_color(char *str, int *index, int j)
 {

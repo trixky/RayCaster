@@ -1,4 +1,4 @@
-#include "cub3d.h"
+#include "ray_caster.h"
 
 int	ft_close(t_all *all, int error_id)
 {

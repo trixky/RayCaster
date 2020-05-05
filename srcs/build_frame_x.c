@@ -1,4 +1,4 @@
-#include "cub3d.h"
+#include "ray_caster.h"
 
 int	ft_rad_90_x(t_all *all)
 {

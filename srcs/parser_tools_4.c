@@ -1,4 +1,4 @@
-#include "cub3d.h"
+#include "ray_caster.h"
 
 int		ft_parse_r_init(t_all *all, int *i, char **width_str, char **height_str)
 {

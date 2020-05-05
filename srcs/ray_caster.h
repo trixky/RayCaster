@@ -1,5 +1,5 @@
-#ifndef CUB3D_H
-# define CUB3D_H
+#ifndef RAY_CASTER_H
+# define RAY_CASTER_H
 # include <sys/types.h>
 # include <sys/uio.h>
 # include <fcntl.h>

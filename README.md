@@ -1,6 +1,6 @@
 # ray_caster
 
-A 3D first-person labyrinth game using [ray-casting](https://en.wikipedia.org/wiki/Ray_casting). (macOS)
+A 3D first-person labyrinth game using [ray-casting](https://en.wikipedia.org/wiki/Ray_casting). __(macOS)__
 
 ![Image description](https://i.ibb.co/s674nbx/screen.png)
 

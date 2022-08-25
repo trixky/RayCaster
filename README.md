@@ -2,7 +2,7 @@
 
 A 3D first-person labyrinth game using [ray-casting](https://en.wikipedia.org/wiki/Ray_casting). __(macOS)__
 
-![Image description](https://i.ibb.co/s674nbx/screen.png)
+![Image description](https://github.com/trixky/ray_caster/blob/master/.demo/demo.png?raw=true)
 
 ## Usage
 
